@@ -1,7 +1,7 @@
 # Metabase
 ![](https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/f_auto,q_auto/$wpsize_!_cld_full!,w_1200,h_630,c_scale/v1621578197/hevo-learn/5927b3e6-af6a-4ca9-92b8-6e26b9216192-1589988072377.png)
 ## What is Metabase ?
->[Metabase](https://www.metabase.com/) is an easy-to-use business intelligence and analytics tool that lets you analyze data from a variety of data destinations and sources.
+[Metabase](https://www.metabase.com/) is an easy-to-use business intelligence and analytics tool that lets you analyze data from a variety of data destinations and sources.
 This platform is popular among marketing and business professionals as it makes it quite easy to create tables, graphs, and charts, such as a pie chart based on data compiled by the platform. They can also create a detailed dashboard using the data from the data pipeline or data warehouse.
 It is similar like **Power BI** and **Tableau**.
 
