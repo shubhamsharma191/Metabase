@@ -30,7 +30,7 @@ It is similar like **Power BI** and **Tableau**.
 - Use the SQL editor for more complex queries.
 - Interactive dashboards with filters, auto-refresh and fullscreen.
 - Setup is very fast and handy.
-- Send data to Slack or email on a schedule with dashboard.
+- Send data to **Slack** or email on a schedule with dashboard.
 
 ![](https://d2908q01vomqb2.cloudfront.net/cb4e5208b4cd87268b208e49452ed6e89a68e0b8/2018/03/30/metabase.jpg)
 
